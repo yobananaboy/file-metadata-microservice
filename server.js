@@ -1,9 +1,6 @@
 // server.js
 // where your node app starts
 
-// https://howtonode.org/really-simple-file-uploads
-// https://coligo.io/building-ajax-file-uploader-with-node/
-
 // init project
 var express = require('express');
 var app = express();
